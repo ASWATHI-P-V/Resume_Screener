@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-$#fp@r$4p@-_!j$jscam--sqt^p^@!pani2af%myz+b=f6o*wj
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['resume_screener-kzqc.onrender.com']
+ALLOWED_HOSTS = ['resume-screener-kzqc.onrender.com']
 
 
 # Application definition
